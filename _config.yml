@@ -1,0 +1,8 @@
+title: Yoshi Isle Blog
+description: >-  
+  A simple blog powered by Jekyll and GitHub Pages.
+baseurl: ""
+url: "https://yoshi-isle.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
